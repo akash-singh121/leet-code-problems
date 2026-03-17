@@ -14,7 +14,7 @@ class Solution {
             map.put(nums[i], i);
         }
 
-        // This line will never be reached (problem guarantees solution exists)
+        
         return new int[] {};
     }
 }
