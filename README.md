@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akash-singh121/leet-code-problems/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/akash-singh121/leet-code-problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
