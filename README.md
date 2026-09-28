@@ -39,4 +39,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akash-singh121/leet-code-problems/tree/master/0102-binary-tree-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-singh121/leet-code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-singh121/leet-code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-singh121/leet-code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
