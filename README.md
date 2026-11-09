@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akash-singh121/leet-code-problems/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akash-singh121/leet-code-problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/akash-singh121/leet-code-problems/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/akash-singh121/leet-code-problems/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -49,6 +51,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash-singh121/leet-code-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akash-singh121/leet-code-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-singh121/leet-code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -58,4 +61,12 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akash-singh121/leet-code-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akash-singh121/leet-code-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akash-singh121/leet-code-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
