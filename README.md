@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/akash-singh121/leet-code-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/akash-singh121/leet-code-problems/tree/master/0055-jump-game) |
+| [0283-move-zeroes](https://github.com/akash-singh121/leet-code-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash-singh121/leet-code-problems/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/akash-singh121/leet-code-problems/tree/master/0283-move-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
